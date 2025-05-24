@@ -16,8 +16,11 @@ KPI Requirements
 PROCESS 
 <br>
 Data Loading
+<br>
 Data Cleaning
+<br>
 Data Exploration
+<br>
 Data Visualization
 
 
