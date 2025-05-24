@@ -6,7 +6,11 @@ Analyze supermarket transaction data to uncover insights about customer behavior
 
 KPI Requirements
 <br>
-
+1) Sales By City 
+2) Sales by Product Line and Gender 
+3) Gross Income by Payment Method 
+4) Monthly Sales Trend 
+5) Average Rating by Branch
 
 
 PROCESS 
